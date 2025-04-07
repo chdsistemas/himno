@@ -1,0 +1,6 @@
+'NAME': 'chd_db',
+'HOST':'sistemas',
+'USER: 'sistemas,
+'PASSWORD': '',
+'PORT': '3309
+
